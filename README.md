@@ -51,8 +51,7 @@ music = {
  * **Mic Not Responding:** Ensure no other application (like Discord or Zoom) is exclusively using the microphone.
  * **GUI Freeze:** If the window stops responding, ensure pyttsx3 is being initialized inside the jarvis_thread_main function to avoid COM threading issues.
  * **API Timeouts:** Check your internet connection; the Google Speech API requires an active link.
-## 📝 License
-Distributed under the MIT License. See LICENSE for more information.
+
 ## 👤 Author
 **Electronics Engineer & Programmer**
  * Project: Voice-Controlled AI Assistant (Jarvis)
